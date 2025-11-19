@@ -1,0 +1,13 @@
+{
+  "type": "discharge",
+  "title": "Discharge Readiness & Readmission Risk",
+  "laceIndex": 6,
+  "riskLevel": "Low",
+  "factors": [
+    "Stable vital signs",
+    "Normal lab values",
+    "Good functional status and mobility"
+  ],
+  "explanation": "Patient demonstrates excellent discharge readiness with stable clinical parameters and good functional status. Low risk of readmission. Standard discharge planning is appropriate.",
+  "usedDataKeys": ["vitals", "labs", "notes"]
+}

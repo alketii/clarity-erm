@@ -1,0 +1,12 @@
+{
+  "type": "medication",
+  "title": "Medication & Safety Review",
+  "riskLevel": "High",
+  "factors": [
+    "Warfarin requires close INR monitoring",
+    "Drug interaction risk between Warfarin and other medications",
+    "Polypharmacy with anticoagulation increases fall risk"
+  ],
+  "explanation": "Patient is on anticoagulation therapy which requires careful monitoring. Combined with recent falls and multiple medications, there is significant safety concern. Recommend medication reconciliation and fall risk assessment.",
+  "usedDataKeys": ["medications", "notes"]
+}

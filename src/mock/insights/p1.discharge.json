@@ -1,0 +1,13 @@
+{
+  "type": "discharge",
+  "title": "Discharge Readiness & Readmission Risk",
+  "laceIndex": 13,
+  "riskLevel": "High",
+  "factors": [
+    "Recent fall within last 7 days",
+    "Elevated creatinine indicating renal impairment",
+    "Multiple comorbidities and polypharmacy"
+  ],
+  "explanation": "This patient has an elevated risk of readmission due to recent instability, abnormal labs, and multiple medications. Discharge planning should include close follow-up, medication reconciliation, and fall prevention strategies.",
+  "usedDataKeys": ["vitals", "labs", "notes", "medications"]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "deterioration",
+  "title": "Deterioration Risk (Next 24–48h)",
+  "riskLevel": "Medium",
+  "factors": [
+    "Trending increase in heart rate",
+    "Borderline blood pressures",
+    "Recent subjective report of dizziness"
+  ],
+  "explanation": "There are some early warning signs of possible clinical deterioration. Continue close monitoring of vitals, reassess dizziness, and consider adjusting medications if instability persists.",
+  "usedDataKeys": ["vitals", "notes"]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "deterioration",
+  "title": "Deterioration Risk (Next 24–48h)",
+  "riskLevel": "Low",
+  "factors": [
+    "Stable and consistent vital signs",
+    "No concerning symptoms reported",
+    "Good functional status maintained"
+  ],
+  "explanation": "Patient shows no signs of clinical deterioration. All vital signs are stable and within normal limits. Continue routine monitoring as per protocol.",
+  "usedDataKeys": ["vitals", "notes"]
+}

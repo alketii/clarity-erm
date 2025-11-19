@@ -1,0 +1,16 @@
+[
+  {
+    "id": "p1",
+    "name": "John Doe",
+    "mrn": "123456",
+    "dob": "1943-02-01",
+    "unit": "Unit 3B"
+  },
+  {
+    "id": "p2",
+    "name": "Mary Smith",
+    "mrn": "553210",
+    "dob": "1950-12-09",
+    "unit": "Unit 2A"
+  }
+]

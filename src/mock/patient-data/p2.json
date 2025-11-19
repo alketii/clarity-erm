@@ -1,0 +1,17 @@
+{
+  "vitals": {
+    "hr": [62, 65, 68],
+    "bp": ["120/75", "118/72"],
+    "temp": [36.6, 36.7]
+  },
+  "labs": {
+    "wbc": 7.2,
+    "creatinine": 0.9,
+    "hgb": 13.4
+  },
+  "notes": [
+    "No recent falls. Ambulating independently.",
+    "Good appetite and stable mood."
+  ],
+  "medications": ["Lisinopril"]
+}

@@ -1,0 +1,17 @@
+{
+  "vitals": {
+    "hr": [70, 88, 94],
+    "bp": ["130/80", "145/90"],
+    "temp": [36.8, 37.5]
+  },
+  "labs": {
+    "wbc": 12.1,
+    "creatinine": 1.9,
+    "hgb": 10.2
+  },
+  "notes": [
+    "Patient reports dizziness and poor appetite.",
+    "Recent fall last week."
+  ],
+  "medications": ["Warfarin", "Metoprolol"]
+}
