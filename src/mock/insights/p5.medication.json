@@ -1,0 +1,14 @@
+{
+  "type": "medication",
+  "title": "Medication Safety Review",
+  "riskLevel": "High",
+  "factors": [
+    "IV antibiotics with potential for allergic reactions",
+    "Multiple inhaler medications requiring proper technique",
+    "Insulin therapy with risk of hypoglycemia during illness",
+    "Drug interactions between antibiotics and existing medications",
+    "Increased risk of medication errors during acute illness"
+  ],
+  "explanation": "High medication safety risk identified. Patient on complex antibiotic regimen while managing chronic COPD and diabetes. Azithromycin can prolong QT interval, monitor ECG. Illness and decreased oral intake increase hypoglycemia risk with insulin - adjust doses as needed. Ensure proper inhaler technique is maintained during acute illness. Monitor for C. difficile with antibiotic use. Recommend pharmacist consultation for drug interaction review and diabetes educator for insulin management during illness.",
+  "usedDataKeys": ["medications", "notes", "vitals"]
+}

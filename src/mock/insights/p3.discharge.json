@@ -1,0 +1,14 @@
+{
+  "type": "discharge",
+  "title": "Discharge Readiness Assessment",
+  "laceIndex": 8,
+  "riskLevel": "Medium",
+  "factors": [
+    "Stable cardiac status with negative troponins",
+    "Awaiting cardiology follow-up appointment",
+    "Good medication adherence history",
+    "Strong family support system at home"
+  ],
+  "explanation": "Patient shows moderate risk for readmission with LACE score of 8. Cardiac evaluation is ongoing but initial workup is reassuring. Discharge planning should include confirmed cardiology appointment within 1 week and clear instructions for chest pain management. Patient demonstrates good understanding of medications and has reliable home support.",
+  "usedDataKeys": ["vitals", "labs", "notes", "medications"]
+}

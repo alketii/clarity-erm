@@ -1,0 +1,14 @@
+{
+  "type": "deterioration",
+  "title": "Clinical Deterioration Risk - Insufficient Data",
+  "riskLevel": "Unknown",
+  "factors": [
+    "Only one set of vital signs available - unable to assess trends",
+    "No laboratory values to evaluate organ function",
+    "Minimal clinical documentation of patient status",
+    "Unknown baseline condition and acute changes",
+    "Missing physical examination findings"
+  ],
+  "explanation": "Cannot adequately assess clinical deterioration risk due to incomplete data. Clinical deterioration assessment requires: Serial vital signs (minimum every 4-6 hours) to identify trends, complete metabolic panel and CBC to assess organ function, arterial blood gas if respiratory concerns, detailed progress notes documenting clinical status and response to treatment, baseline functional and mental status, and any concerning symptoms or examination findings. Current single vital sign set appears stable but is insufficient for risk stratification. Recommend establishing monitoring frequency and completing diagnostic workup immediately.",
+  "usedDataKeys": ["vitals", "notes"]
+}

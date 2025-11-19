@@ -1,0 +1,14 @@
+{
+  "type": "deterioration",
+  "title": "Clinical Deterioration Risk",
+  "riskLevel": "High",
+  "factors": [
+    "Persistent fever despite antibiotic therapy",
+    "Tachycardia with heart rates 92-100 bpm",
+    "Elevated white blood cell count (13.5)",
+    "Worsening renal function (creatinine 1.8)",
+    "Low hemoglobin (10.5) suggesting anemia"
+  ],
+  "explanation": "Patient demonstrates high risk for clinical deterioration. Persistent fever and tachycardia despite 48+ hours of antibiotics raises concern for treatment failure or complications. Worsening renal function may indicate sepsis or volume depletion. Anemia combined with infection increases risk. Recommend: repeat chest imaging to assess for complications, blood cultures if not already done, consider ICU-level monitoring, nephrology consult for acute kidney injury, and broadening antibiotic coverage if no improvement.",
+  "usedDataKeys": ["vitals", "labs", "notes"]
+}

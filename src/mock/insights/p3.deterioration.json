@@ -1,0 +1,13 @@
+{
+  "type": "deterioration",
+  "title": "Clinical Deterioration Risk",
+  "riskLevel": "Low",
+  "factors": [
+    "Stable vital signs within normal range",
+    "Cardiac markers negative",
+    "No acute changes in clinical status",
+    "Appropriate response to current treatment"
+  ],
+  "explanation": "Patient demonstrates low risk of clinical deterioration. Vital signs are stable and within acceptable ranges. Cardiac workup has been reassuring. Patient is responding well to current medical management. Continue monitoring but no immediate concerns for acute decompensation.",
+  "usedDataKeys": ["vitals", "labs", "notes"]
+}

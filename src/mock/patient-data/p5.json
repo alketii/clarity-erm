@@ -1,0 +1,26 @@
+{
+  "vitals": {
+    "hr": [95, 98, 92, 100],
+    "bp": ["138/85", "142/88", "135/82", "145/90"],
+    "temp": [37.8, 38.0, 37.6, 38.2]
+  },
+  "labs": {
+    "wbc": 13.5,
+    "creatinine": 1.8,
+    "hgb": 10.5
+  },
+  "notes": [
+    "Patient admitted with suspected pneumonia. Productive cough and fever for 3 days.",
+    "Chest X-ray shows right lower lobe infiltrate. Started on antibiotics.",
+    "Patient has history of COPD and diabetes, complicating factors for recovery.",
+    "Oxygen saturation improving on 2L nasal cannula. Continue monitoring closely."
+  ],
+  "medications": [
+    "Ceftriaxone 1g IV daily",
+    "Azithromycin 500mg daily",
+    "Albuterol inhaler as needed",
+    "Tiotropium inhaler daily",
+    "Insulin glargine 20 units nightly",
+    "Insulin lispro sliding scale"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "discharge",
+  "title": "Discharge Readiness Assessment",
+  "laceIndex": 10,
+  "riskLevel": "High",
+  "factors": [
+    "Active infection requiring IV antibiotics",
+    "Elevated temperature indicating ongoing infection",
+    "Multiple comorbidities (COPD, diabetes)",
+    "Declining hemoglobin suggesting anemia",
+    "Requires oxygen supplementation"
+  ],
+  "explanation": "Patient at high risk for readmission with LACE score of 10. Active pneumonia with underlying COPD complicates recovery. Diabetes management may be affected by infection and steroid use. Anemia requires investigation. Patient still requires oxygen support. Discharge should be delayed until afebrile for 24 hours, oxygen weaned to room air or baseline, and clear follow-up arranged with pulmonology. Consider home oxygen assessment if needed.",
+  "usedDataKeys": ["vitals", "labs", "notes", "medications"]
+}

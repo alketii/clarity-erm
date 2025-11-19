@@ -1,0 +1,13 @@
+{
+  "type": "medication",
+  "title": "Medication Safety Review",
+  "riskLevel": "Medium",
+  "factors": [
+    "Polypharmacy with 5 active medications",
+    "Medication non-adherence history documented",
+    "Cognitive impairment affecting medication management",
+    "Complex dosing schedule with multiple daily doses"
+  ],
+  "explanation": "Moderate medication safety concerns identified. Patient is on multiple antihypertensive agents with documented adherence issues. Cognitive decline complicates self-management. Consider medication simplification where possible, such as once-daily formulations. Recommend pillbox setup, medication calendar, or supervised administration through home health. Caregiver education essential for safe medication management at home.",
+  "usedDataKeys": ["medications", "notes"]
+}

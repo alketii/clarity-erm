@@ -1,0 +1,13 @@
+{
+  "type": "deterioration",
+  "title": "Clinical Deterioration Risk",
+  "riskLevel": "Medium",
+  "factors": [
+    "Elevated and unstable blood pressure readings",
+    "Intermittent confusion episodes",
+    "Elevated white blood cell count",
+    "Declining renal function (creatinine 1.4)"
+  ],
+  "explanation": "Patient shows moderate risk for clinical deterioration. Hypertension remains poorly controlled with concerning BP variability. Cognitive changes may indicate inadequate cerebral perfusion or early delirium. Elevated WBC and worsening renal function require monitoring. Recommend increased monitoring frequency, consideration of telemetry, and nephrology consult if creatinine continues to rise.",
+  "usedDataKeys": ["vitals", "labs", "notes"]
+}

@@ -1,0 +1,25 @@
+{
+  "vitals": {
+    "hr": [82, 88, 85, 90, 87],
+    "bp": ["145/92", "148/95", "142/90", "150/94", "146/91"],
+    "temp": [37.1, 37.2, 37.0, 37.3, 37.1]
+  },
+  "labs": {
+    "wbc": 11.2,
+    "creatinine": 1.4,
+    "hgb": 11.8
+  },
+  "notes": [
+    "Patient with history of hypertension, poorly controlled. Recent onset of confusion.",
+    "Blood pressure readings consistently elevated. Medication compliance questioned.",
+    "Family reports patient has been missing doses of medications.",
+    "Social work consulted for home health services and medication management."
+  ],
+  "medications": [
+    "Amlodipine 10mg daily",
+    "Hydrochlorothiazide 25mg daily",
+    "Losartan 100mg daily",
+    "Metformin 1000mg twice daily",
+    "Donepezil 10mg nightly"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "medication",
+  "title": "Medication Safety Review - Insufficient Data",
+  "riskLevel": "Unknown",
+  "factors": [
+    "No current medications documented",
+    "No home medication list available",
+    "Unknown allergy history",
+    "Missing pharmacy reconciliation",
+    "No information on medication adherence or barriers"
+  ],
+  "explanation": "Unable to perform medication safety review due to lack of medication information. Essential data needed includes: Complete home medication list with dosages and frequencies, over-the-counter medications and supplements, medication allergy history with type of reaction, current hospital medications and orders, recent medication changes or discontinuations, barriers to medication adherence (cost, complexity, understanding), and renal/hepatic function for dose adjustments. Without medication data, cannot assess for drug interactions, inappropriate medications, or adherence issues. Medication reconciliation must be completed as a patient safety priority.",
+  "usedDataKeys": ["medications", "notes"]
+}

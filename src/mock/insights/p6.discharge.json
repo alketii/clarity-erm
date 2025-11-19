@@ -1,0 +1,15 @@
+{
+  "type": "discharge",
+  "title": "Discharge Readiness Assessment - Insufficient Data",
+  "laceIndex": null,
+  "riskLevel": "Unknown",
+  "factors": [
+    "Incomplete laboratory data - no recent labs available",
+    "Limited vital signs - only single measurement recorded",
+    "Insufficient clinical documentation",
+    "No medication history documented",
+    "Unknown length of stay and comorbidities"
+  ],
+  "explanation": "Unable to calculate LACE index or assess discharge readiness due to insufficient clinical data. The following information is required for accurate assessment: Complete laboratory panel (CBC, BMP, renal function), trend of vital signs over time (minimum 24 hours), comprehensive medication reconciliation including home medications, detailed clinical notes regarding reason for admission and treatment plan, past medical history and comorbidities, functional status assessment, and social support evaluation. Recommend completing full admission workup before discharge planning can proceed.",
+  "usedDataKeys": ["vitals", "notes"]
+}

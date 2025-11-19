@@ -5,6 +5,8 @@ interface InsightCardProps {
 }
 
 export default function InsightCard({ insight }: InsightCardProps) {
+  const isUnknownRisk = insight.riskLevel === "Unknown";
+
   const getRiskColor = (risk: string) => {
     switch (risk) {
       case "Low":
@@ -13,6 +15,8 @@ export default function InsightCard({ insight }: InsightCardProps) {
         return "bg-gradient-to-r from-amber-100 to-orange-100 text-amber-800 border border-amber-200";
       case "High":
         return "bg-gradient-to-r from-red-100 to-rose-100 text-red-800 border border-red-200";
+      case "Unknown":
+        return "bg-gradient-to-r from-orange-100 to-amber-100 text-orange-800 border border-orange-200";
       default:
         return "bg-gradient-to-r from-slate-100 to-slate-200 text-slate-800 border border-slate-200";
     }

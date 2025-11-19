@@ -1,0 +1,24 @@
+{
+  "vitals": {
+    "hr": [68, 72, 70, 74],
+    "bp": ["125/78", "128/80", "122/76", "130/82"],
+    "temp": [36.7, 36.8, 36.6, 36.9]
+  },
+  "labs": {
+    "wbc": 7.8,
+    "creatinine": 1.0,
+    "hgb": 14.2
+  },
+  "notes": [
+    "Patient admitted for chest pain evaluation. ECG shows normal sinus rhythm.",
+    "Cardiac enzymes negative. Stress test scheduled.",
+    "Patient reports improved symptoms with medication adjustment.",
+    "Awaiting cardiology consult for further management plan."
+  ],
+  "medications": [
+    "Aspirin 81mg daily",
+    "Atorvastatin 40mg nightly",
+    "Metoprolol 25mg twice daily",
+    "Lisinopril 10mg daily"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "discharge",
+  "title": "Discharge Readiness Assessment",
+  "laceIndex": 11,
+  "riskLevel": "High",
+  "factors": [
+    "Poorly controlled hypertension despite multiple medications",
+    "Elevated creatinine suggesting renal impairment",
+    "Medication non-compliance issues identified",
+    "Cognitive concerns affecting self-care ability",
+    "Multiple comorbidities including diabetes"
+  ],
+  "explanation": "Patient presents high risk for readmission with LACE score of 11. Multiple concerns including uncontrolled hypertension, medication non-adherence, and cognitive decline require comprehensive discharge planning. Home health services and medication management support are essential. Consider involving family/caregivers in medication education and follow-up planning. Close outpatient follow-up within 3-5 days strongly recommended.",
+  "usedDataKeys": ["vitals", "labs", "notes", "medications"]
+}
