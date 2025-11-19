@@ -51,9 +51,7 @@ export default function LoginPage() {
             <h2 className="text-2xl font-bold text-slate-900 mb-2">
               Welcome Back
             </h2>
-            <p className="text-slate-600">
-              Sign in to access patient insights
-            </p>
+            <p className="text-slate-600">Sign in to access patient insights</p>
           </div>
 
           <form onSubmit={handleLogin} className="space-y-5">

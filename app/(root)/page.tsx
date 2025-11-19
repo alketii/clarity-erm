@@ -10,7 +10,7 @@ export default function HomePage() {
     // Check if user is logged in (dummy check)
     // In a real app, you'd check for auth token/session
     const isLoggedIn = sessionStorage.getItem("isLoggedIn");
-    
+
     if (isLoggedIn === "true") {
       router.push("/dashboard");
     } else {
