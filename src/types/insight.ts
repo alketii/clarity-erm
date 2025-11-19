@@ -7,8 +7,8 @@ export type InsightType =
 export interface InsightResult {
   type: InsightType;
   title: string;
-  laceIndex?: number;
-  riskLevel: "Low" | "Medium" | "High";
+  laceIndex?: number | null;
+  riskLevel: "Low" | "Medium" | "High" | "Unknown";
   factors: string[];
   explanation: string;
   usedDataKeys: string[]; // e.g. ["vitals", "labs", "notes", "medications"]
